@@ -1,0 +1,13 @@
+{
+  "runOn": "browserstack_or_local",   
+  "squad": "AppAndroid_or_AppiOS",
+  "appPackage": "com.example.app",
+  "bundleID": "com.example.ios", 
+  "browserstack": {
+    "username": "your_browserstack_username",
+    "accessKey": "your_browserstack_access_key",
+    "hub": "hub.browserstack.com",
+    "androidAppUrl": "bs://<android-app-id>",
+    "iOSAppUrl": "bs://<ios-app-id>"
+  }
+}
