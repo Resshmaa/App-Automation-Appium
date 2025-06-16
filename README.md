@@ -123,4 +123,3 @@ npm run test:local -- --parallel=true --headless=true
 
 * Android execution was tested using **Android Studio** Emulator and **Appium Inspector**.
 * iOS execution is **configured but untested**, as Mac environment was not available at the time.
-# App-Automation-Appium
